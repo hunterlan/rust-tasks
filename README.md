@@ -6,11 +6,11 @@ This repository is aimed for owner to study programming language Rust and store 
 
 The repository contains foldrs tasks_x, where x - is number of topic. It copies tasks for programming language C, that was given to me during university study.
 
-There're 13 topics:
+There are 13 topics:
 
 1. [Development of linear programs](/task_1/tasks.md)
-2. Development of branching programs
-3. Loops constructions
+2. [Development of branching programs](/task_2/tasks.md)
+3. [Loops constructions](task_3/tasks.md)
 4. Arrays
 5. Functions
 6. Pointers?
